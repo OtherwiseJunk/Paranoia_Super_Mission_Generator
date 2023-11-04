@@ -1,6 +1,6 @@
 require 'clone_generator'
 
-describe SectorGenerator do
+describe CloneGenerator do
   describe '.generator' do
     before(:all) do
       @sut = CloneGenerator.new(rand(1337))
