@@ -7,3 +7,5 @@ gem "ruby-lzma"
 gem "redcarpet"
 
 gem 'progressbar'
+
+gem 'rspec'
